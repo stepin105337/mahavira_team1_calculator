@@ -1,4 +1,4 @@
-SRC = src/basic_calculation.c src/advanced_calculation.c src/addition.c main.c 
+SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c  main.c
 
 INC = -Iinc\
 -Iunity\
@@ -9,7 +9,7 @@ INC = -Iinc\
 PROJECT_NAME = calc.out
 
 
-$(PROJECT_NAME): $(SRC)
+$(PROJECT_NAME): $(SRC) 
 	gcc $(SRC) $(INC) -o $(PROJECT_NAME)
 
 run :$(PROJECT_NAME)
