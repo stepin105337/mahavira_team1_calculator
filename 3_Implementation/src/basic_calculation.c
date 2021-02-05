@@ -6,7 +6,7 @@ int num;
 char back=0;
 
 do{
-    printf("\n 1.Addition   2.Subtraction  3.Multiplication  4.Division \n");
+    printf("\n 1.Addition   2.Subtraction  3.Multiplication  4.Division \n\n");
     printf("\n Enter your choice:");
     scanf("%d",&num);
 

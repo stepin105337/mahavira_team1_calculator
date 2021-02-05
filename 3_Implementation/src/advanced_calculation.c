@@ -39,6 +39,6 @@ char back=0;
         }
     }while(back!= 'N');
 
-    return 'M'
+    return 'M';
 
 }

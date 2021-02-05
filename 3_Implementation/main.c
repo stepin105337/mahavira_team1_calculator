@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "basic_calculation.h"
 #include "advanced_calculation.h"
+#include "addition.h"
 
 int main(){
 
@@ -18,7 +19,7 @@ int main(){
 
             case 1: option = basic_calculation();
                     break;
-            case 2: //option = advanced_calculation();
+            case 2: option = advanced_calculation();
                     break;
             default: option = 'E';
         }
