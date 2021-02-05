@@ -6,13 +6,13 @@ int num;
 char back=0;
 
 do{
-    printf("\n 1.Addition   2.Subtraction  3.Multiplication  4.Division \n");
+    printf("\n 1.Addition   2.Subtraction  3.Multiplication  4.Division \n\n");
     printf("\n Enter your choice:");
     scanf("%d",&num);
 
         switch(num){
 
-            case 1: //addition();
+            case 1: addition();
                     printf("\n\n\n PRESS Y - SAME Menu    PRESS N - MAIN Menu\n");
                     scanf(" %c", &back);
                     break;

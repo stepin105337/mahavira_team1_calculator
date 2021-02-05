@@ -1,5 +1,5 @@
 #include "addition.h"
-int addition(){
+void addition(){
     int a,b,sum;
     printf("Enter Input 1:");
     scanf("%d",&a);
