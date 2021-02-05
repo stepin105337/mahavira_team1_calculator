@@ -12,7 +12,7 @@ do{
 
         switch(num){
 
-            case 1: //addition();
+            case 1: addition();
                     printf("\n\n\n PRESS Y - SAME Menu    PRESS N - MAIN Menu\n");
                     scanf(" %c", &back);
                     break;
