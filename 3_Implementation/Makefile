@@ -1,12 +1,11 @@
-<<<<<<< HEAD
+
 SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/calculate_power.c main.c
-=======
+
 
 SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/subtraction.c main.c
 
-SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/factorial.c  main.c
+SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/factorial.c src/square.c main.c
 
->>>>>>> 00a9e214f932981b1dc156c1ad5ccfdaee31ec45
 
 INC = -Iinc\
 -Iunity\
