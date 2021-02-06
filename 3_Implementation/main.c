@@ -4,6 +4,9 @@
 #include "addition.h"
 #include "subtraction.h"
 
+#include "factorial.h"
+
+
 int main(){
 
     int menu_num;
