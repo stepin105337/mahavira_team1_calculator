@@ -4,6 +4,9 @@ SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/cal
 
 SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/subtraction.c /square.c main.c
 
+SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c main.c
+
+
 SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/factorial.c src/square.c main.c
 
 

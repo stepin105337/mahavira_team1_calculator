@@ -3,7 +3,7 @@
 #include "advanced_calculation.h"
 #include "addition.h"
 #include "calculate_power.h"
-#include "subtraction.h"
+
 
 #include "factorial.h"
 #include "square.h"
