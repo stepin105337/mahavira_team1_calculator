@@ -1,8 +1,8 @@
 
-SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/calculate_power.c main.c
+SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/calculate_power.c /square.c main.c
 
 
-SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/subtraction.c main.c
+SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/subtraction.c /square.c main.c
 
 SRC =  src/basic_calculation.c src/advanced_calculation.c src/addition.c src/factorial.c src/square.c main.c
 
