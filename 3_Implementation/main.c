@@ -6,6 +6,7 @@
 #include "subtraction.h"
 
 #include "factorial.h"
+#include "square.h"
 
 
 int main(){
