@@ -1,6 +1,6 @@
 #include"division.h"
 
-Float division(floatnum1,floatnum2 )
+float division(floatnum1,floatnum2 )
 {
     if(num2==0)
     {
